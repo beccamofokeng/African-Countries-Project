@@ -2,8 +2,13 @@
 ![Screenshot 2023-08-26 223653](https://github.com/beccamofokeng/African-Countries-Project/assets/141571635/3f5dccb4-8d9e-4506-8b27-f13e074a24be)
 
 **Data Used**-African Countries I downloaded from Kaggle.
+
+
 **Data Cleaning and Analysis**-MySQL and Power Query.
+
+
 **Data Visualisation**-Power BI.
+
 
 I used African coutries data to gather information about the distribution of the population 
 in Africa between the year 2000 and 2022.
